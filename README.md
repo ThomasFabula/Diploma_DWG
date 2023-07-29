@@ -11,4 +11,3 @@
 - https://tfconsult.com/echtzeit-messwerterfassung/
 - https://tfconsult.com/echtzeit-datenanalyse/
 - https://tfconsult.com/physik-diplom/
-- 
