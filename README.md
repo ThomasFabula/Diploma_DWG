@@ -1,9 +1,9 @@
 # Diploma_DWG
 
 ## Drawings
-- AutoCAD(TM) Drawings (DWG) of diploma thesis,
-- Atomic beam &amp; Laser physics,
-- hyperfinestructure (HFS) real-time spectroscopy,
+- AutoCAD(TM) Drawings (DWG) of diploma thesis
+- Atomic beam &amp; Laser physics
+- hyperfinestructure (HFS) real-time spectroscopy
 
 ## University of Bonn
 University of Bonn, Institute of Applied Physics
