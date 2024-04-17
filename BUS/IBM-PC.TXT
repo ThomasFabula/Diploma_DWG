@@ -52,7 +52,8 @@ P.A. Dietrich:  Adr: Bit 0, 1 belegt
                             - A/D-Wandler Karte ( 12 Bit )
 
 T. Fabula:      2 Karten:   - Zaehlerkarte (dito)
-                            - Frequenz-Dekadentreiber ;
+                            - Frequenz-Dekadentreiber ;
+
 
 
       I/O-Bus :    IBM-PC , Z80    ( 64poliger DIN-Stecker )
